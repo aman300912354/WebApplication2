@@ -14,4 +14,10 @@
         <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
         <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
     </address>
+    <%...email is not working;.... %>
+    <%TODO.... %>
+    <form action="home>
+        <input type="text" placeholder="name" />
+            <input type="text" placeholder="place" /><br />
+            <input type="text" placeholder="school" />
 </asp:Content>
